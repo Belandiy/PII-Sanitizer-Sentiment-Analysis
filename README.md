@@ -1,6 +1,6 @@
 # Text Data Sanitization (PII Removal) & Sentiment Analysis
 
-A demonstration of data preparation for LLM training. In commercial environments, it's critical to mask Personal Identifiable Information (PII) before feeding data to models to prevent data leakage. This project showcases regex-based PII masking and subsequent sentiment classification.
+Демонстрация подготовки данных для обучения модели LLM. В коммерческих условиях крайне важно маскировать персональные данные (PII) перед передачей данных в модели, чтобы предотвратить утечку данных. В этом проекте показана маскировка PII на основе регулярных выражений и последующая классификация тональности.
 
 ## 📋 Описание проекта
 
